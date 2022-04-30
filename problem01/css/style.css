@@ -1,0 +1,16 @@
+.search {
+  width: 48%;
+}
+.search-result {
+  width: 76%;
+  border: 1px solid rgba(148, 147, 147, 0.5);
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  background: rgba(148, 147, 147, 0.2);
+}
+.result-item {
+  transform: translateX(-4%);
+}
+a {
+  cursor: pointer;
+}
+
